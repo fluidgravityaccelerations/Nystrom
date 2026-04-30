@@ -1,5 +1,7 @@
 # Nystrom
 
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white)
+
 # EFIE Nyström Solver for 2D PEC Cylinder (TM\_z)
 
 This repository contains a MATLAB implementation of a Nyström discretization of the Electric Field Integral Equation (EFIE) for 2D scattering by a perfectly conducting circular (or elliptical) cylinder under TM\_z polarization.
