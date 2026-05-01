@@ -38,3 +38,14 @@ The method combines:
    addpath('src');
 3. Run: main_efie_nystrom_circle
 
+## Documentation
+
+Additional derivations and theoretical notes are available in:
+
+- [`docs/nystrom-notes.pdf`](docs/nystrom-notes.pdf)
+
+This PDF contains the mathematical background used to derive the EFIE Nyström discretization, including:
+- Martensen–Kussmaul kernel splitting  
+- Colton–Kress trigonometric quadrature  
+- Circular-cylinder reference solutions  
+- Far-field asymptotics  
